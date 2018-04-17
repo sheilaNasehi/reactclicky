@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background-image:url("https://topbackgroundwallpaper.com/wp-content/uploads/2018/01/vintage-floral-wallpaper-background-pink-vintage-floral-wallpaper-hq-resolution.jpg");
+}
+.MainHeading{
+    background-image: url("./roses.jpg");
+    margin-bottom:2%;
+    background-size: 100% 100%;
+    text-align:center;
+    color:white;
+}
+
+.butterfliesContainer{
+    width:100%;
+    column-count: 4;
+	column-gap:10px;
+}
+.butterflies{
+    width:100%;
+    height:80%;
+    border: 2px solid black;
+} 

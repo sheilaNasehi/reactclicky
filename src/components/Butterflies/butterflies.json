@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "purpleButterfly",
+    "image": "https://s-media-cache-ak0.pinimg.com/564x/65/40/2d/65402d36183c7c86c84c09f206a8b0d2.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 2,
+    "name": "orangeButterfly",
+    "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX7658234.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 3,
+    "name": "whiteOrangeButterfly",
+    "image": "http://debrasdivinedesigns.com/image/cache/data/butterfly%20ID/hebomoia-glaucippe-430-668x500.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 4,
+    "name": "greenButterfly",
+    "image": "http://irama.org/assets/images/dhtml/butterfly/butterfly-4.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 5,
+    "name": "blackWhiteButterfly",
+    "image": "http://res.freestockphotos.biz/pictures/10/10384-a-white-butterfly-isolated-on-a-white-background-pv.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 6,
+    "name": "blueButterfly",
+    "image": "http://res.freestockphotos.biz/pictures/10/10466-a-blue-butterfly-isolated-on-a-white-background-pv.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 7,
+    "name": "pinkandwhiteButterfly",
+    "image": "https://i.pinimg.com/564x/79/8d/75/798d75e036e28c16eb00b3aeaf9e0c21.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 8,
+    "name": "yellowButterfly",
+    "image": "http://res.freestockphotos.biz/pictures/10/10479-a-yellow-butterfly-isolated-on-a-white-background-pv.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 9,
+    "name": "rainbowButterfly",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/b5/18/1f/b5181ffce00b5c3af20957c3e740d913.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 10,
+    "name": "multiColorButterfly",
+    "image": "https://i.pinimg.com/originals/c2/df/9d/c2df9dacdadde11facdce70523203256.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 11,
+    "name": "pinkButterfly",
+    "image": "http://www.cutehdwallpapers.com/uploads/large/butterfly/pink-butterfly-hd-white-background.jpg",
+    "imgClicked":false
+  },
+  {
+    "id": 12,
+    "name": "cheetahButterfly",
+    "image": "http://www.obsessionwithbutterflies.com/img/butterfly/Painted%20Lady2.jpg",
+    "imgClicked":false
+  }
+] 
